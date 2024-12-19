@@ -27,7 +27,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/http-protocol-simulation.git
+    https://github.com/Walaa4Yahia/HTTP_Project.git
    ```
 
 2. **Open the Project in Eclipse**:
