@@ -7,7 +7,7 @@ This project simulates the HTTP protocol in a simplified manner, providing a bas
 - **Simulated HTTP Requests**: Mimics basic HTTP requests (e.g., GET, POST).
 - **HTTP Response Handling**: Simulates different HTTP status codes, such as 200 (OK), 404 (Not Found), and 500 (Internal Server Error).
 - **Error Handling**: Simulates errors like timeouts, server unavailability, and authentication failures.
-- **Educational Tool**: Provides a simple and clear understanding of the HTTP protocol, suitable for beginners.
+
 
 ## Table of Contents
 - [Project Description](#project-description)
