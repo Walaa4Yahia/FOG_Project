@@ -44,11 +44,12 @@ Follow these steps to set up the project on your local machine:
 ## Usage
 
 1. **Run the Project**:
-   - In Eclipse, navigate to the `Principle.java` file.
+   - In Eclipse, navigate to the `build/classes/controle/Principal.class` file.
    - Right-click on the file and select **Run As** > **Java Application**.
 
 2. **Test Different Scenarios**:
-   - The program simulates HTTP requests, errors, and responses. You can modify the request types and view the corresponding simulated responses, such as server unavailability, timeouts, and authentication errors.
+   - The program simulates HTTP requests, errors, and responses. You can modify the request types and view the corresponding simulated responses, such as server unavailability,       
+     timeouts, and authentication errors.
 
  
  
