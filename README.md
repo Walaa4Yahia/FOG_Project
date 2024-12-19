@@ -1,5 +1,5 @@
 # HTTP Protocol Simulation Project
-## FOG Final Project
+# FOG Final Project
 ## Overview
 This project simulates the HTTP protocol in a simplified manner, providing a basic framework to understand HTTP communication. It mimics key features of HTTP, such as request/response handling, status codes, and basic error management, in order to demonstrate how clients and servers interact over the web.
 
