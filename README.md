@@ -67,6 +67,6 @@ Before submitting a pull request, please ensure that your code follows the exist
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed .
 
  
